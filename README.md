@@ -22,4 +22,4 @@ The **Adovelopers Doorlock Systems Dashboard** is a web-based interface designed
 
 - Node.js v16+  
 - MongoDB v4.0+  
-- Nginx (if hosting production)
+- Nginx (if hosting production) / Vercel
